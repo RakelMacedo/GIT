@@ -1,3 +1,3 @@
-# GIT
+## ♦️ GIT
 
-### Lista de comandos úteis do GIT. 
+### Lista de comandos úteis do GIT no arquivo *git.md*
